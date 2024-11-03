@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KSHITIJ SHUKLA
+- 👋 Hi, I’m Kshitij Shukla
 
 
 
