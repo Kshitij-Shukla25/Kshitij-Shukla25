@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Kshitij Shukla #
+- 👋 Hi, I’m Kshitij Shukla 
 - 📫 Reach out to me at [LinkedIn](www.linkedin.com/in/kshitij-shukla-78996b329)
 
 
